@@ -8,3 +8,5 @@ Like:
 4. Typing speed checker 
 5. Pattern matching : Complete pattern and approximate string matching
 6. New upcoming
+
+Welcome for  new ideas!
