@@ -1,0 +1,9 @@
+Hello,
+This is a javafx based notepad project.
+Here you will find basic notepad features along with some more attractive ones.
+Like:
+1. Find and Replace
+2. Encrypt your file
+3. Word analysis
+4. Typing speed checker 
+5. Pattern matching : Complete patter and approximate string matching
