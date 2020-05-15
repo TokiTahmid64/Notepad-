@@ -6,4 +6,5 @@ Like:
 2. Encrypt your file
 3. Word analysis
 4. Typing speed checker 
-5. Pattern matching : Complete patter and approximate string matching
+5. Pattern matching : Complete pattern and approximate string matching
+6. New upcoming
